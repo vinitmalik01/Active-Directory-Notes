@@ -44,7 +44,7 @@
 
 [sAMAccountName Spoofing](Active%20Directory/sAMAccountName%20Spoofing.md)
 
-[Active Directory Cobalt Strike ](Active%20Directory/Active%20Directory%20Cobalt Strike.md)
+[Active Directory Cobalt Strike ](Active%20Directory/Active%20Directory%20Cobalt%20Strike.md)
 
 [RODC (Read-Only Domain Controller)](Active%20Directory/RODC%20%28Read-Only%20Domain%20Controller%29.md)
 
